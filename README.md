@@ -1,7 +1,7 @@
 Hi 👋 My name is Guilherme Escudeiro
 ====================================
 
-Computer Science Student @ FEI
+💻 Computer Science Student @ FEI
 ------------------------------
 
 RoboFEI@Home Arceus Team
