@@ -4,7 +4,7 @@ Hi 👋 My name is Guilherme Escudeiro
 💻 Computer Science Student @ FEI
 ------------------------------
 
-RoboFEI@Home Arceus Team
+RoboFEI@Home
 
 *   🌍  I'm based in Brazil, São Paulo
 *   ✉️  You can contact me at [unifgescudeiro@fei.edu.br](mailto:unifgescudeiro@fei.edu.br)
