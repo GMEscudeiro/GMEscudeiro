@@ -7,13 +7,11 @@ I'm a Computer Science student passionate about robotics and artificial intellig
 
 
 ## 🛠 Skills
-🌟 Expertise:
-- Computer Vision: Developing solutions that enable robots to perceive and interpret the world around them.
-- Control Systems: Designing and implementing precise control mechanisms for robotic movement and interaction.
-
-💡 Additional Skills:
-- Navigation: Crafting efficient path planning and localization strategies.
-- Robotic Manipulation: Creating systems for reliable object handling and interaction.
+- ROS and ROS2
+- Computer vision
+- Control systems
+- Robot navigation and manipulation
+- Python, C++, C, Java, etc.
 
 📫 Let’s Connect! I’m always excited to discuss robotics, technology, and innovative projects. Feel free to explore my repositories or reach out – let’s create something amazing!  
 ## 🔗 Links
