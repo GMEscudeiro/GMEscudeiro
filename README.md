@@ -3,7 +3,8 @@
 
 
 ## 🚀 About me
-I'm a Computer Science student passionate about robotics and artificial intelligence. Currently, I serve as the Software Team Leader for RoboFEI@Home, a RoboCup@Home league team focused on advancing service robot technologies.
+Software Engineer | Robotics & AI  
+Computer Science student with a focus on service robotics and AI. Former Software Team Leader at RoboFEI@Home, where I spearheaded development for autonomous service robots in international competitions. Currently developing cutting-edge software for humanoid and service robots, bridging the gap between academic innovation and industrial application.
 
 
 📫 Let’s Connect! I’m always excited to discuss robotics, technology, and innovative projects. Feel free to explore my repositories or reach out!  
